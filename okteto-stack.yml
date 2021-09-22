@@ -8,5 +8,5 @@ services:
     ports:
       - 12580
     resources:
-      cpu: 100m
-      memory: 300Mi
+      cpu: 1000m
+      memory: 2000Mi
